@@ -1,2 +1,3 @@
-# wapp
+# WAPP
+
 Experimental Starter Kit
